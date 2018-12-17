@@ -1,16 +1,21 @@
-Music visualizer
-Music visualizer
+# Music visualizer
+
+## Music visualizer
+
 Questa applicazione-web in React ha come scopo il permettere la visualizzazione di tracce musicali con relativi testi e video musicali.
-Partecipanti
+
+## Partecipanti
 Gabriele Canesi
 Gioele Fiorenza
 Omar Boumakas
 Matteo Caironi
-Ruoli
+
+## Ruoli
 PROJECT_MANAGER = Gioele Fiorenza
 DOCUMENTAZIONE = Boumakas Omar
 CSS = ...
-Regolamento
+
+## Regolamento
 Ogni gruppo consegnerà il link ad un repository GIT che sarà un fork di questo progetto.
 La documentazione andrà caricata nella sezione Wiki di questo repo.
 Il codice andrà caricato in una cartella public all'interno della root del repository
